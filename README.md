@@ -4,8 +4,6 @@ This app enables the user to use the pomodoro time-management technique. The foc
 
 ## Links
 
-* [App Demo]()
-
 ## Installation
 
 1. Run `npm install` to install project dependencies.
